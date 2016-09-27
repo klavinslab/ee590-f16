@@ -9,6 +9,10 @@ Specifically, this course takes a detailed look at two programming languages, C+
 **Instructor**: Prof. Eric Klavins 
 **Teaching Assistant**: Tileli Amimeur
 
+## Github
+
+We will be using Github for version controlling all of our code. Go to https://education.github.com/pack for details.
+
 ## Syllabus
 
 * Week 1 (9/29): Build Environment, Fundamentals of the C Programming Language, Version control
