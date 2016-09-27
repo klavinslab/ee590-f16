@@ -1,8 +1,6 @@
-# ee590
-Fall 2016 - EE590 Class
+# Welcome to EE590 (fall '16)
 
-Books
+Lectures: Thurs 6pm - 9pm
+Homework: Due ~ Wednesdays @ Noon
 
-C: http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf
-
-C++: http://irpp.org/wp-content/uploads/sites/2/2014/04/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C++.pdf
+Please see the class Wiki for the syllabus and class references.
