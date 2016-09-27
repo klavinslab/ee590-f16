@@ -13,7 +13,7 @@ Specifically, this course takes a detailed look at two programming languages, C+
 
 * Week 1 (9/29): Build Environment, Fundamentals of the C Programming Language, Version control
 * Week 2 (10/6): Pointers, structures, unions, the C preprocessor, io, and building APIs
-* Week 3 (10/13): Debugging C programs, Fundamentals of C++
+* Week 3 (10/13): Debugging C programs, Fundamentals of C++, Standard Template Library
 * Week 4 (10/20): Building an object oriented library in C++
 * Week 5 (10/27): Data Structures: Lists, Sets, Trees, Hashes, STLs, Sparse Matrices, etc.
 * Week 6 (11/3): Fundamentals of Javascript
