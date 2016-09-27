@@ -23,8 +23,14 @@ Specifically, this course takes a detailed look at two programming languages, C+
 * Week 10 (12/1): Applications
 * Week 11 (12/8): Final presentations (or similar experience)
 
+## Homework
+
+Homework will be assigned weekly, and will be due the following Wednesday. Homework will be submitted by pushing your code and other materials to a github repository. We will clone your code and attempt to run it and grade it base on functionality, completeness, and style.
+
+* Homework 1 (Due 10/5): TBA
 
 ## References
-C: http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf
 
-C++: http://irpp.org/wp-content/uploads/sites/2/2014/04/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C++.pdf
+* Kerninghan and Ritchie, **C Programming**, 2nd Edition, http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf.
+
+* Koening and Moo, **Accelerated C++: Practical Programming by Example, http://irpp.org/wp-content/uploads/sites/2/2014/04/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C++.pdf. 
