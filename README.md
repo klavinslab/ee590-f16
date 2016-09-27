@@ -4,6 +4,7 @@ Lectures: Thurs 6pm - 9pm
 Homework: Due ~ Wednesdays @ Noon
 
 Instructor: Prof. Eric Klavins 
+
 TA: Tileli Amimeur
 
 ## Syllabus
