@@ -33,4 +33,4 @@ Homework will be assigned weekly, and will be due the following Wednesday. Homew
 
 * Kerninghan and Ritchie, **C Programming**, 2nd Edition, http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf.
 
-* Koening and Moo, **Accelerated C++: Practical Programming by Example, http://irpp.org/wp-content/uploads/sites/2/2014/04/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C++.pdf. 
+* Koening and Moo, **Accelerated C++: Practical Programming by Example**, http://irpp.org/wp-content/uploads/sites/2/2014/04/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C++.pdf. 
