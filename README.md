@@ -31,7 +31,7 @@ We will be using Github for version controlling all of our code. Go to https://e
 
 Homework will be assigned weekly, and will be due the following Wednesday. Homework will be submitted by pushing your code and other materials to a github repository. We will clone your code and attempt to run it and grade it base on functionality, completeness, and style.
 
-* Homework 1 (Due 10/5): TBA
+Detailed assignments are listed on the [wiki](https://github.com/klavinslab/ee590/wiki).
 
 ## References
 
