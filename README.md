@@ -36,6 +36,8 @@ Detailed assignments are listed on the [wiki](https://github.com/klavinslab/ee59
 
 ## References
 
+* The git book. https://git-scm.com/book/en/v2.
+
 * Kerninghan and Ritchie, **C Programming**, 2nd Edition, http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf.
 
 * GNU Make. https://www.gnu.org/software/make/manual/make.html#Introduction.
