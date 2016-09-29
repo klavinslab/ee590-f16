@@ -9,10 +9,6 @@ Specifically, this course takes a detailed look at two programming languages, C+
 **Instructor**: Prof. Eric Klavins 
 **Teaching Assistant**: Tileli Amimeur
 
-## Github
-
-We will be using Github for version controlling all of our code. Go to https://education.github.com/pack for details.
-
 ## Syllabus
 
 * Week 1 (9/29): Build Environment, Fundamentals of the C Programming Language, Version control
@@ -32,6 +28,11 @@ We will be using Github for version controlling all of our code. Go to https://e
 Homework will be assigned weekly, and will be due the following Wednesday. Homework will be submitted by pushing your code and other materials to a github repository. We will clone your code and attempt to run it and grade it base on functionality, completeness, and style.
 
 Detailed assignments are listed on the [wiki](https://github.com/klavinslab/ee590/wiki).
+
+## Resources
+
+* We will be using Github for version controlling all of our code. Make a user name and get the [Student Pack](https://education.github.com/pack) so you can use various resources for free.
+* Please use the [Atom Editor](https://atom.io) to edit your code.
 
 ## References
 
