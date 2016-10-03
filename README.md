@@ -9,7 +9,7 @@ Specifically, this course takes a detailed look at two programming languages, C+
 **Lectures**: Thurs 6pm - 9pm
 **Homework**: Due ~ Wednesdays @ Noon
 **Instructor**: Prof. Eric Klavins
-**Teaching Assistant**: Tileli Amimeur
+**Teaching Assistant**: Tileli Amimeur  -  tamimeur@gmail.com
 
 ## Syllabus
 
