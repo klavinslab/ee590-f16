@@ -8,7 +8,7 @@ Specifically, this course takes a detailed look at two programming languages, C+
 
 **Lectures**: Thurs 6pm - 9pm
 **Homework**: Due ~ Wednesdays @ 5pm
-**Instructor**: Prof. Eric Klavins
+**Instructor**: Prof. Eric Klavins. Office hour: Thursdays from 5-6pm in CSE Room 236.
 **Teaching Assistant**: Tileli Amimeur  -  tamimeur@gmail.com
 
 ## Syllabus
