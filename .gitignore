@@ -1,1 +1,8 @@
+*.o
+
+lec1/balance
+lec1/hello
+
+lec2/example
+
 tmp/
