@@ -16,6 +16,7 @@ Matrix * matrix_new ( int rows, int columns ) {
 }
 
 void matrix_destroy ( Matrix * M ) {
+  free ( M->value );
   free ( M );
 }
 
