@@ -4,10 +4,10 @@
 # Here we define our C compiler, in case we want to add or delete flags. It will
 # show up as $(CC) in the rules of the Makefile.
 #
-CC = gcc -O3
+CC = gcc
 
 # Here we define the files that are the inputs to our project
-SOURCES = matrix.c operations.c example.c
+SOURCES = matrix.c matrix_operations.c matrix_file_io.o example.c
 HEADERS = matrix.h
 
 # And here are the outputs. The second one is a substitution of the form

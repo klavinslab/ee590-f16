@@ -21,6 +21,12 @@ int main ( int argc, char * argv[] ) {
 
   printf ( "det = %lf\n", matrix_det ( B ) );
 
+  C = matrix_from_file ( "data/m1.mat" );
+  matrix_print(C); NL;
+  printf ( "det = %lf\n", matrix_det ( C ) );
+
+  matrix_destroy(C);
+
   return 0;
 
 }

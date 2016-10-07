@@ -18,8 +18,6 @@ Matrix * matrix_add ( Matrix * A, Matrix * B ) {
 
 }
 
-/* TODO: Determinant */
-
 Matrix * matrix_minor ( Matrix * M, int n ) {
 
   ASSERT ( 0 <= n && n < M->columns );

@@ -11,6 +11,7 @@ typedef struct {
 Matrix * matrix_new ( int rows, int columns );
 void matrix_destroy ( Matrix * M );
 Matrix * matrix_random ( int rows, int columns );
+Matrix * matrix_from_file ( const char filename[] );
 
 /* Getters and setters */
 double matrix_get ( Matrix * M, int row, int column );
