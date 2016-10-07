@@ -21,12 +21,12 @@ void matrix_destroy ( Matrix * M ) {
 
 double matrix_get ( Matrix * M, int row, int column ) {
   ASSERT ( 0 <= row && row < M->rows && 0 <= column && column < M->columns );
-  return M->value[row + column * M->columns];
+  return M->value[row * M->columns + column];
 }
 
 void matrix_set ( Matrix * M, int row, int column, double value ) {
   ASSERT ( 0 <= row && row < M->rows && 0 <= column && column < M->columns );
-  M->value[row + column * M->columns] = value;
+  M->value[row * M->columns + column] = value;
 }
 
 void matrix_print ( Matrix * M ) {
