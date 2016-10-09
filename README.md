@@ -40,7 +40,7 @@ Detailed assignments are listed on the [wiki](https://github.com/klavinslab/ee59
 
 * The git book. https://git-scm.com/book/en/v2.
 
-* Kerninghan and Ritchie, **C Programming**, 2nd Edition, http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf.
+* Kerninghan and Ritchie, **C Programming**, 2nd Edition, https://hassanolity.files.wordpress.com/2013/11/the_c_programming_language_2.pdf.
 
 * GNU Make. https://www.gnu.org/software/make/manual/make.html#Introduction.
 
