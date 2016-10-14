@@ -44,6 +44,4 @@ Detailed assignments are listed on the [wiki](https://github.com/klavinslab/ee59
 
 * GNU Make. https://www.gnu.org/software/make/manual/make.html#Introduction.
 
-* Robert Lafore, **Object-Oriented Programming in C++**,  http://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf
-
-* Koening and Moo, **Accelerated C++: Practical Programming by Example**, http://irpp.org/wp-content/uploads/sites/2/2014/04/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C++.pdf.
+* Robert Lafore, **Object-Oriented Programming in C++**,  http://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf.
