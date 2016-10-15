@@ -1,4 +1,5 @@
 *.o
+*.a
 
 lec1/balance
 lec1/hello
