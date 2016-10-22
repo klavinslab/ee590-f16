@@ -9,7 +9,7 @@ TARGETS = $(SOURCES:%.cc=%.x)
 all: $(TARGETS)
 
 %.x: %.cc ../libmatrix.a
-	$(CXX) $(LIBS) $(INCLUDE_DIRS) $(LIBDIRS) $< -o $@
+	$(CXX) $(INCLUDE_DIRS) $(LIBDIRS) $< $(LIBS) -o $@
 
 test: $(TARGETS)
 	./test.sh
