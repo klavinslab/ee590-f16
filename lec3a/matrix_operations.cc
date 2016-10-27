@@ -26,7 +26,7 @@ matrix matrix::mult ( const matrix &m ) const {
     throw matrix_exception("Attemped to multiple matrices with incompatible sizes");
   }
 
-  matrix M(rows(),columns());
+  matrix M(rows(),m.columns());
 
   for ( int i=0; i<rows(); i++ ) {
     for ( int j=0; j<m.columns(); j++ ) {
