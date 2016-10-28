@@ -1,5 +1,6 @@
 *.o
 *.a
+*.x
 
 lec1/balance
 lec1/hello
@@ -7,3 +8,5 @@ lec1/hello
 lec2/example
 
 tmp/
+
+lec5/
