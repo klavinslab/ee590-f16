@@ -27,7 +27,7 @@ Object* Array::get(int index) {
   if ( 0 <= index && index < max && values[index] != NULL ) {
     return values[index];
   } else {
-    return new Null;
+    throw "Array out of bounds"
   }
 }
 
