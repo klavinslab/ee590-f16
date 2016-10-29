@@ -35,7 +35,7 @@ std::string Array::stringify() {
 
   std::string s = "[";
 
-  int m = 0;
+  int m = -1;
 
   for ( int i=0; i<max; i++ ) {
     if ( values[i] != NULL ) {
