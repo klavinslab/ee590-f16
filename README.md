@@ -14,16 +14,16 @@ Specifically, this course takes a detailed look at two programming languages, C+
 ## Syllabus
 
 * Week 1 (9/29): Build Environment, Fundamentals of the C Programming Language, Version control
-* Week 2 (10/6): Pointers, structures, unions, the C preprocessor, io, and building APIs
-* Week 3 (10/13): Debugging C programs, Fundamentals of C++.
-* Week 4 (10/20): Building an object oriented library in C++.
-* Week 5 (10/27): Data Structures: Lists, Sets, Trees, Hashes, Sparse Matrices. The Standard Template Library.
+* Week 2 (10/6): Pointers, structures, unions, the C preprocessor, io, and building APIs. Matrix library
+* Week 3 (10/13): Debugging C programs, Fundamentals of C++. Matrix libaray in C++
+* Week 4 (10/20): Building an object oriented library in C++. JSON example
+* Week 5 (10/27): Tokenizing and parsing
 * Week 6 (11/3): Fundamentals of Javascript
-* Week 7 (11/10): Javascript interface to C++
-* Week 8 (11/17): Programming Language Design
+* Week 7 (11/10): Clients, servers, and AWS
+* Week 8 (11/17): Javascript interface to C++
 * Week 9 (11/24): Thanksgiving, no class!
-* Week 10 (12/1): Applications
-* Week 11 (12/8): Final presentations (or similar experience)
+* Week 10 (12/1): TBA
+* Week 11 (12/8): TBA
 
 ## Homework
 
