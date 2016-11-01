@@ -14,12 +14,15 @@ Array::Array ( const Array &array ) {
   max = array.max;
   values = new Object *[max];
   for ( int i=0; i < max; i++ ) {
-    values[i] = array.values[i];
+    values[i] = array.values[i]->clone();
   }
 
 }
 
 void Array::set(int index, Object &object) {
+  if ( values[index] != NULL ) {
+    delete values[index];
+  }
   values[index] = object.clone();
 }
 

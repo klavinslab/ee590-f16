@@ -3,7 +3,7 @@ LIBS = -ljson
 INCLUDE_DIRS = -I..
 LIBDIRS = -L..
 
-SOURCES = 1.cc 2.cc
+SOURCES = 1.cc 2.cc 3.cc
 TARGETS = $(SOURCES:%.cc=%.x)
 
 all: $(TARGETS)
