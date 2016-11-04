@@ -64,6 +64,7 @@ void Array::resize(int m) {
     temp[i] = new Null;
   }
 
+  delete []values;
   values = temp;
   max = m;
 
