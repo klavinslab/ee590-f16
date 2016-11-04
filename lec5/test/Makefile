@@ -1,4 +1,4 @@
-CXX = g++ -std=c++11 -O3
+CXX = g++ -std=c++11
 LIBS = -ljson
 INCLUDE_DIRS = -I..
 LIBDIRS = -L..
