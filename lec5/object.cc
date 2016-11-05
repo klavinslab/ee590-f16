@@ -1,4 +1,4 @@
 #include <iostream>
-#include "Object.hh"
+#include "object.hh"
 
 Object::Object() {}
