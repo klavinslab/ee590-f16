@@ -9,4 +9,7 @@ lec2/example
 
 tmp/
 
-lec5/
+lec5/temp/
+lec5/old/
+
+json/
