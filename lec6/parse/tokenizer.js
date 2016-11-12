@@ -13,7 +13,7 @@ function Tokenizer(regexps) {
 }
 
 Tokenizer.prototype.add = function(regexp) {
-  if ( re_string == "" ) {
+  if ( this.re_string == "" ) {
     this.re_string = regexp.source;
   } else {
     this.re_string += "|" + regexp.source;
@@ -23,7 +23,7 @@ Tokenizer.prototype.add = function(regexp) {
 }
 
 Tokenizer.prototype.tokenize = function(str) {
-  this.tokens = str.split(this.re);
+  this.tokens = str.match(this.re);
   return this;
 }
 

@@ -6,6 +6,6 @@ t.add(/\[/)
  .add(/\d+/)
  .add(/,/)
  .add(/]/)
- .tokenize("[1,2,3]");
+ .tokenize("[100,200,300,,,[][]]");
 
 console.log(t.tokens);
