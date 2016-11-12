@@ -13,7 +13,11 @@ function Tokenizer(regexps) {
 }
 
 Tokenizer.prototype.add = function(regexp) {
-  this.re_string += "|" + regexp.source;
+  if ( re_string == "" ) {
+    this.re_string = regexp.source;
+  } else {
+    this.re_string += "|" + regexp.source;
+  }
   this.re = RegExp(this.re_string,"g");
   return this;
 }
